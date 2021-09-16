@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkartmap=self.webpackChunkartmap||[]).push([[64],{1381:function(e){e.exports=JSON.parse('{"permalink":"/zh-TW/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
