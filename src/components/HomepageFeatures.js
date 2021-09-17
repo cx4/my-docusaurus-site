@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title: '个性化定制',
+    Svg: require('../../static/img/Personalized_customization.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        我们为您提供个性化的地图定制，满足您的个性化需求.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title: '高质量输出',
+    Svg: require('../../static/img/dpi.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        无论是商用还是家用，我们都可提供高分辨率的地图，满足您不同大小的装饰和设计需求.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title: '印刷及装裱服务',
+    Svg: require('../../static/img/frame.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        出了提供个性化定制，我们可接受您的个性化印刷和装裱需求.
       </>
     ),
   },
