@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            了解详细 - 5min ⏱️
+            开始了解 - 5min ⏱️
           </Link>
         </div>
       </div>
@@ -29,8 +29,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`艺术地图 ${siteConfig.title}`}
+      description="现代数字艺术,数字地图制作,艺术地图制作,艺术地图设计 <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
