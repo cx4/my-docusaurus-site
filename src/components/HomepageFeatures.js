@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title: '个性化定制',
-    Svg: require('../../static/img/Personalized_customization.svg').default,
+    Svg: require('../../static/img/customization.svg').default,
     description: (
       <>
         我们为您提供个性化的地图定制，满足您的个性化需求.
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/frame.svg').default,
     description: (
       <>
-        出了提供个性化定制，我们可接受您的个性化印刷和装裱需求.
+        除了提供个性化定制，我们可接受您的个性化印刷和装裱需求.
       </>
     ),
   },
