@@ -113,7 +113,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ArtMap Powered by CloudBase Webify.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ArtMap Powered by <a href="https://webify.cloudbase.net/">CloudBase Webify</a>.`,
       },
       prism: {
         theme: lightCodeTheme,
